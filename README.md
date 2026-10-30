@@ -57,18 +57,5 @@ MAE (Mean Absolute Error) represents the average absolute difference between the
 2. **Limited or teaching dataset:** The dataset may not represent every real-world sales situation, so the results may not generalize to all businesses.
 3. **Prediction does not prove causation:** A relationship between a feature and sales does not prove that the feature causes sales to increase or decrease.
 
-## Files
-- `DSA2050_Week6_Guided_Regression_Lab.ipynb` — notebook containing the code, model comparisons, and analysis.
-- `DSA2050_Week6_Sales_Data.csv` — dataset used in the lab.
-- `README.md` — project overview, results, findings, and limitations.
 
-## How to Run
-1. Download or clone this repository.
-2. Make sure the notebook and CSV file are in the same folder.
-3. Install the required Python libraries if needed:
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn jupyter
-   ```
-4. Open the notebook in Jupyter Notebook or VS Code.
-5. Restart the kernel and run all cells from top to bottom.
 
